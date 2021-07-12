@@ -18,9 +18,6 @@ char *ft_strstr(char *str, char *to_find)
 	return (0);
 }
 
-
-
-
 int main(void)
 {
     char *ft_strstr(char *str, char *to_find);
