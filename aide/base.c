@@ -122,7 +122,7 @@
     {
         PEUGEOT, //on peut mettre une valeur (PEUGEOT = 5)
         RENAULT,
-        TOYOTA
+        TOYOTAF
     }marque;
 
 
