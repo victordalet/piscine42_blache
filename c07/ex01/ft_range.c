@@ -2,7 +2,7 @@ int *ft_range(int min, int max)
 {
     if (min < max)
     {
-        int interval = max - min;
+        int interval = max -  min;
         int tableau[interval];
         for (int i = 0 ; i < interval ; i++)
         {
