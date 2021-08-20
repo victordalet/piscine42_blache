@@ -152,10 +152,10 @@
     [allocation dynamique]:
             sizeof(<donnee>)                    // retourne la taille en octet d'une donnée
             malloc(<taille en octets>)          // allouer dynamiquement une zone mémoire
-            free(<donnee_allouee>)              // libere la mémoire aloué dynamiquement
+            free(<donnee_allouee>)                  // libere la mémoire aloué dynamiquement
             calloc(<donnee> , <taille_octet>)   // alloue et initialiser tout a 0
             realloc(<donnee , <nouvelle_taille) // réalloue un espace mémoire
-    ------------------------------------------------------
+    --------------------------------------- ---------------
     [fichiers]
         fopen(<fichiers> , <mode_ouverture>) : r (lecture seul , doit exister)
                                                w (écriture) 
@@ -186,6 +186,6 @@
             remove(<fichiers>) 
     ---------------------------------------------------------
 
-
+        
 
 */

@@ -14,7 +14,7 @@ void ft_puts(char *str)
 	ft_putchar('\n');
 }
 
-void	ft_putnbr(int nb)
+void ft_putnbr(int nb)
 {
 	unsigned int n;
 
