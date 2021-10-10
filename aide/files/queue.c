@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>  
-#include "queu.h"
+#include "queue.h"
 
 Bool is_empty_queue(void)
 {
