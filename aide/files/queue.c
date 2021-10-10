@@ -132,7 +132,5 @@ void clear_queue(void)
 	}
 
 	while(!is_empy_queue())
-	{
 		pop_queue();
-	}
 }

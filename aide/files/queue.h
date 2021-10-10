@@ -1,5 +1,5 @@
-#ifndef __PILE__H__
-#define __PILE__H__
+#ifndef __QUEUE__H__
+#define __QUEUE__H__
 
 
 typedef enum 
