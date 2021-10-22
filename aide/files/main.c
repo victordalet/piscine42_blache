@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>  
-#include "queue.h"
+#include "queu.h"
 
 int main()
 {
@@ -13,3 +13,4 @@ int main()
 
 	return 0;
 }
+	
